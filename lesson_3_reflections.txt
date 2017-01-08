@@ -16,4 +16,8 @@ What is the benefit of having a copy of the last known state of the remote store
  
    In this way I can keep track of every commit that have been pushed to remote, so that I'm working on the latest version of the repository on remote.
    
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+ 
+   Without using Git I would do version-control manually, it's possible when I am only working on a small project and alone.If I need to collaborate with other people, I would use email to discuss and update, which is less in time and may cause misunderstanding. In this way, when fully comprehensed, GitHub would be a powerful tool to do teamwork.
    
+
