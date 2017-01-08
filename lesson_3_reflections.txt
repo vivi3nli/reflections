@@ -1,1 +1,5 @@
-what would happen?
+When would you want to use a remote repository rather than keeping all your work local?
+
+    I would like to use a remote repository when I'm collaborating with someone else or I'm using another computer rather than mine yet I want to keep working on the same code.
+    
+    
